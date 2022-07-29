@@ -207,11 +207,3 @@ https://recollect.today/
   
 </details>
 
-
-## 🗒 Wiki
-https://github.com/codestates/re-collect-client/wiki
-## ⚙️ Server repository
-https://github.com/codestates/re-collect-server
-
-## 더 자세한 내용은 아래 링크에서 확인
-https://codestates.notion.site/9-Collector-Recollect-3fcb48a9a7a8422a8c615619382851b3
