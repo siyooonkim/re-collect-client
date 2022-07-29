@@ -208,15 +208,6 @@ https://recollect.today/
 </details>
 
 
-## 🌝 우리를 소개합니다
-| 이름(깃헙링크) | Position & Role|
-| ------- | ----- |
-| [김시윤](https://github.com/siyooonkim) | 💻 Front-end, 🌟 Team leader|
-| [김지우](https://github.com/zuzokim) | 💻 Front-end, ⏰ Time Manager |
-| [박유빈](https://github.com/Justicexx0099) | 💻 Back-end, 📝 Record Manager |
-| [이석준](https://github.com/CodingGorani) | 💻 Front-end, 🗣 Communication Manager |
-
-
 ## 🗒 Wiki
 https://github.com/codestates/re-collect-client/wiki
 ## ⚙️ Server repository
